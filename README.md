@@ -29,7 +29,7 @@ public void showMessage(String msg)
 public void showMessage(String msg, int type)
 ```
 
-  显示截图
+
   默认背景0xF0808080
   ![avatar](https://raw.githubusercontent.com/Yanye0xFF/PictureBed/master/images/qtoast/QToast_Default.png)
   WARNING
