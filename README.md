@@ -30,4 +30,4 @@ public void showMessage(String msg, int type)
 ```
 
   截图
-![avatar](https://raw.githubusercontent.com/Yanye0xFF/PictureBed/master/images/qtoast/QToast_Default.png)
+  ![avatar](https://raw.githubusercontent.com/Yanye0xFF/PictureBed/master/images/qtoast/QToast_Default.png)
