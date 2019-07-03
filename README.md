@@ -29,11 +29,11 @@ public void showMessage(String msg, int type)
 ```
 
 
-  默认背景0xF0808080
-  ![avatar](https://raw.githubusercontent.com/Yanye0xFF/PictureBed/master/images/qtoast/QToast_Default.png)
-  WARNING
-  ![avatar](https://raw.githubusercontent.com/Yanye0xFF/PictureBed/master/images/qtoast/QToast_Warning.png)
-  MESSAGE
-  ![avatar](https://raw.githubusercontent.com/Yanye0xFF/PictureBed/master/images/qtoast/QToast_Message.png)
-  DEFAULT
-  ![avatar](https://raw.githubusercontent.com/Yanye0xFF/PictureBed/master/images/qtoast/QToast_Default_type.png)
+  默认背景0xF0808080  
+  ![avatar](https://raw.githubusercontent.com/Yanye0xFF/PictureBed/master/images/qtoast/QToast_Default.png)  
+  WARNING  
+  ![avatar](https://raw.githubusercontent.com/Yanye0xFF/PictureBed/master/images/qtoast/QToast_Warning.png)  
+  MESSAGE  
+  ![avatar](https://raw.githubusercontent.com/Yanye0xFF/PictureBed/master/images/qtoast/QToast_Message.png)  
+  DEFAULT  
+  ![avatar](https://raw.githubusercontent.com/Yanye0xFF/PictureBed/master/images/qtoast/QToast_Default_type.png)  
